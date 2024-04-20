@@ -281,6 +281,120 @@
             "img": "./img/projects/complex.PNG",
             "id": "045",
             "url": "https://dwunblocked.netlify.app/complex/"
+        },
+        {
+            "name": "TinyFishing",
+            "img": "./img/projects/tiny.PNG",
+            "id": "046",
+            "url": "https://dwunblocked.netlify.app/tinyfishing/"
+        },
+        {
+            "name": "Fnaf 1",
+            "img": "./img/projects/fnaf.PNG",
+            "id": "047",
+            "url": "https://dwunblockedg.netlify.app/fnaf/"
+        },
+        {
+            "name": "Fnaf 2",
+            "img": "./img/projects/fnaf2.PNG",
+            "id": "048",
+            "url": "https://dwunblockedg.netlify.app/fnaf2/"
+        },
+        {
+            "name": "Fnaf 3",
+            "img": "./img/projects/fnaf3.PNG",
+            "id": "049",
+            "url": "https://dwunblockedg.netlify.app/fnaf3/"
+        },
+        {
+            "name": "Fnaf 4",
+            "img": "./img/projects/fnaf4.PNG",
+            "id": "050",
+            "url": "https://dwunblockedg.netlify.app/fnaf4/"
+        },
+        {
+            "name": "Donky Kong Country 3",
+            "img": "./img/projects/dk3.PNG",
+            "id": "051",
+            "url": "https://dwunblockedg.netlify.app/dk3"
+        },
+        {
+            "name": "CSGO CLICKER",
+            "img": "./img/projects/case1.png",
+            "id": "052",
+            "url": "https://dwunblockedgame.netlify.app/csgoclicker/"
+        },
+        {
+            "name": "DeathRun 3D",
+            "img": "./img/projects/death.PNG",
+            "id": "053",
+            "url": "https://dwunblockedgame.netlify.app/death-run-3d/"
+        },
+        {
+            "name": "Dino",
+            "img": "./img/projects/dino.PNG",
+            "id": "054",
+            "url": "https://dwunblockedgame.netlify.app/dino/"
+        },
+        {
+            "name": "DodgeMiner 2",
+            "img": "./img/projects/dodge2.PNG",
+            "id": "055",
+            "url": "https://dwunblockedgame.netlify.app/doge-miner-2/"
+        },
+        {
+            "name": "Cluster Rush",
+            "img": "./img/projects/clust.PNG",
+            "id": "056",
+            "url": "https://dwunblockedgame.netlify.app/cluster-rush/"
+        },
+        {
+            "name": "DodgeMiner 1",
+            "img": "./img/projects/dodge1.PNG",
+            "id": "057",
+            "url": "https://dwunblockedgame.netlify.app/dogeminer/"
+        },
+        {
+            "name": "DriftBoss",
+            "img": "./img/projects/driftboss.PNG",
+            "id": "058",
+            "url": "https://dwunblocked.netlify.app/drift-boss/"
+        },
+        {
+            "name": "Monkey Mart",
+            "img": "./img/projects/monke.PNG",
+            "id": "059",
+            "url": "https://dwunblocked.netlify.app/monkey-mart/"
+        },
+        {
+            "name": "Time Shooter 2",
+            "img": "./img/projects/time.PNG",
+            "id": "060",
+            "url": "https://dwunblocked.netlify.app/time-shooter-2/"
+        },
+        {
+            "name": "Boxing Random",
+            "img": "./img/projects/box.PNG",
+            "id": "061",
+            "url": "https://dwunblocked.netlify.app/boxing-random/"
+        },
+        {
+            "name": "Soccer Random",
+            "img": "./img/projects/soccer.PNG",
+            "id": "062",
+            "url": "https://dwunblockedg.netlify.app/soccerrandom/"
+        },
+        {
+            "name": "Time Shooter 3",
+            "img": "./img/projects/time3.PNG",
+            "id": "063",
+            "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/version@0d8fb9c7430567ed0900902593eee6ba2ba8d297/ts3.xml&container=ig"
+        },
+        {
+            "name": "Bank Robbery",
+            "img": "./img/projects/bank.PNG",
+            "id": "064",
+            "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/wergboy/Meteor@c010df63e91ad28084114c53c8335cad6f063232/examples/react-in-blaze/br2.xml&container=ig"
         }
     ],
     "apps": [
@@ -349,6 +463,12 @@
             "name": "YouTube",
             "id": "511",
             "img": "./img/apps/yt.png"
+        },
+        {
+          "url": "https://soundcloud.com",
+          "name": "SoundCloud",
+          "id": "512",
+          "img": "./img/apps/soundc.PNG"
           }
     ]
 }
