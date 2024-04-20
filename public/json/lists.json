@@ -160,7 +160,7 @@
             "name": "DriftHunters",
             "img": "./img/projects/drifthunters.png",
             "id": "025",
-            "url": "https://dwunblockedg.netlify.app/drifthunters/"
+            "url": "https://fancy-taiyaki-df5643.netlify.app/"
         },
         {
             "name": "BasketBall Stars",
@@ -395,6 +395,66 @@
             "img": "./img/projects/bank.PNG",
             "id": "064",
             "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/wergboy/Meteor@c010df63e91ad28084114c53c8335cad6f063232/examples/react-in-blaze/br2.xml&container=ig"
+        },
+        {
+            "name": "Super Mario Bros",
+            "img": "./img/projects/super.PNG",
+            "id": "065",
+            "url": "https://dwunblockedgame.netlify.app/mario/"
+        },
+        {
+            "name": "Hacker Type",
+            "img": "./img/projects/hack.PNG",
+            "id": "066",
+            "url": "https://dwunblockedgame.netlify.app/hackertype/"
+        },
+        {
+            "name": "Fruit Ninja",
+            "img": "./img/projects/fruit.PNG",
+            "id": "067",
+            "url": "https://dwunblockedgame.netlify.app/fruitninja/"
+        },
+        {
+            "name": "Drive Mad",
+            "img": "./img/projects/drive.PNG",
+            "id": "068",
+            "url": "https://dwunblockedgame.netlify.app/drive-mad/"
+        },
+        {
+            "name": "Basket Bros",
+            "img": "./img/projects/bro.PNG",
+            "id": "069",
+            "url": "https://dwunblocked.netlify.app/basketbros/"
+        },
+        {
+            "name": "Krunker",
+            "img": "./img/projects/krunker.PNG",
+            "id": "070",
+            "url": "https://dwunblockedg.netlify.app/krunker/"
+        },
+        {
+            "name": "BackRooms",
+            "img": "./img/projects/backroom.PNG",
+            "id": "071",
+            "url": "https://dwunblockedg.netlify.app/backrooms/"
+        },
+        {
+            "name": "Cars Simulator",
+            "img": "./img/projects/cars.PNG",
+            "id": "072",
+            "url": "https://dwunblockedgame.netlify.app/cars-simulator/"
+        },
+        {
+            "name": "Retro Bowl",
+            "img": "./img/projects/retro.PNG",
+            "id": "073",
+            "url": "https://comforting-crisp-58235e.netlify.app/"
+        },
+        {
+            "name": "Retro College",
+            "img": "./img/projects/retroc.PNG",
+            "id": "074",
+            "url": "https://vocal-starlight-fd8113.netlify.app/"
         }
     ],
     "apps": [
