@@ -3,19 +3,12 @@
         "Colors": [
             "Default",
             "Light"
-        ],
-        "Sites": [
-            "Rifted",
-            "Nova",
-            "e926.net",
-            "The Hub",
-            "Steam"
         ]
     },
     "Cloaks": [
         {
-            "cloak": "Railin",
-            "title": "Railin'"
+            "cloak": "DW",
+            "title": "DW'"
         },
         {
             "cloak": "Canvas",
